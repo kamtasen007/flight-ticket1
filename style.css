@@ -1,0 +1,279 @@
+.container{
+    border: 2px solid black;
+    height: 70px;
+    width: 500px;
+    position: absolute;
+    right: 38%;
+    top: 50px;
+}
+.main{
+    border: 2px solid black;
+    height: 431px;
+    width: 500px;
+    position:absolute;
+    right: 0%;
+    top: 69px;
+    margin-right: -2px;
+}
+
+.content h3{
+display: flex;
+justify-content: flex-start;
+margin-top: 45px;
+margin-left: 100px;
+height: 72px;
+border: 2ps solid black;
+margin-top: 11px;
+text-align: center;
+align-items: center;
+position: absolute;
+right: -2px;
+width: 354px;
+
+}
+#time h6{
+    position: absolute;
+    left: 391px;
+}
+#time2 h6{
+    position: absolute;
+    left: 376px;
+    margin-top: 50px;
+}
+
+.box{
+    height: 431px;
+    width: 144px;
+    border: 2px solid black;
+    position: absolute;
+    top: 69px;
+    right: 354px;
+}
+
+.box2{
+    height: 232px;
+    width: 144px;
+    border: 2px solid black;
+    position: absolute;
+    left: -2px;
+    top: -2px;
+}
+
+.box3{
+    position: absolute;
+    margin-top: 8px;
+}
+
+.box3 input{
+    width: 126px;
+    position: absolute;
+    margin-left: 5px;
+    margin-top: -20px;
+}
+
+button{
+    margin-left: 5px;
+    margin-top: 7px;
+}
+.box4{
+    height: 109px;
+    width: 336px;
+    border: 2px solid black;
+    position: absolute;
+    left: 152px;
+    margin-top: 95px;
+}
+.box4 p{
+    margin-top: 0px;
+}
+.box4 h6{
+    margin-top: -13px;
+}
+.box41{
+    position: absolute;
+    left: 259px;
+    margin-top: 128px;
+
+}
+.box41 p{
+    margin-top: 4px;
+}
+.box41 h6{
+    margin-top: -12px;
+    
+}
+.box41 h5{
+    margin-top: -14px;
+
+}
+
+.box4 h5{
+    margin-top: -12px;
+    font-size: 12px;
+}
+.box42{
+    height: 74px;
+    width: 109px;
+    border: 2px solid black;
+    position: absolute;
+    left: 369px;
+    margin-top: 100px;
+    
+}
+
+
+#btn{
+    margin-top: 80px;
+    width: 115px;
+    position: absolute;
+    right: 0px;
+    left: -7px;
+    background-color: grey;
+}
+
+#btn2{
+    margin-top: 80px;
+    width: 115px;
+    position: absolute;
+    right: 0px;
+    left: -7px;
+    background-color: grey;
+}
+
+#btn3{
+    margin-top: 80px;
+    width: 115px;
+    position: absolute;
+    right: 0px;
+    left: -7px;
+    background-color: grey;
+}
+.box5{
+    height: 109px;
+    width: 336px;
+    border: 2px solid black;
+    position: absolute;
+    left: 152px;
+    margin-top: 213px;
+}
+.box5 p{
+    margin-top: 0px;
+
+}
+.box5 h6{
+    margin-top: -13px;
+}
+.box5 h5{
+    margin-top: -12px;
+    font-size: 12px;
+}
+.box51{
+    position: absolute;
+    left: 261px;
+    margin-top: 246px;
+
+}
+.box51 p{
+    margin-top: 4px;
+}
+
+.box51 h6{
+margin-top: -17px;
+}
+
+.box51 h5{
+    margin-top: -12px;
+}
+.box52{
+    height: 74px;
+    width: 109px;
+    border: 2px solid black;
+    position: absolute;
+    left: 370px;
+    margin-top: 219px;
+}
+.box6{
+    height: 109px;
+    width: 336px;
+    border: 2px solid black;
+    position: absolute;
+    left: 152px;
+    margin-top: 329px;
+}
+.box6 p{
+    margin-top: 0px;
+}
+.box6 h6{
+    margin-top: -12px;
+}
+.box6 h5{
+    margin-top: -14px;
+}
+.box61{
+    position: absolute;
+    left: 267px;
+    margin-top: 325px;
+
+}
+
+.box61 h5{
+    margin-top: -13px;
+
+}
+
+.box62{
+    height: 74px;
+    width: 109px;
+    border: 2px solid black;
+    position: absolute;
+    left: 369px;
+    margin-top: 334px;
+
+}
+
+.btn3{
+
+border-radius: 7px;
+border: 1px solid black;
+}
+.btn4{
+    border-radius: 7px;
+    margin-left: -6px;
+border: 1px solid black;
+}
+.box8{
+    border: 2px solid black;
+    height: 50px;
+    width: 50px;
+}
+
+.box9{
+    height: 94px;
+    width: 131px;
+    border: 2px solid black;
+    position: absolute;
+    left: 5px;
+    margin-top: 237px;
+}
+
+.box9 h5{
+    margin-top: 0px;
+
+}
+
+#para{
+    margin-top: -68px;
+    margin-right: -21px;
+    margin-left: 80px;
+  }
+  .box9 p{
+    margin-left: 7px;
+  }
+    
+
+
+.box9 h4{
+    margin-left: 8px;
+    margin-top: -15px;
+  
+}
